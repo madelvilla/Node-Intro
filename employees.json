@@ -1,0 +1,71 @@
+[
+    {
+        "employeeID": 243,
+        "name": "Fenrys",
+        "salary": 500000,
+        "department": "Security"
+    },
+
+    {
+        "employeeID": 645,
+        "name": "Lucien",
+        "salary": 500000,
+        "department": "Merchant" 
+    },
+
+    {
+        "employeeID": 873,
+        "name": "Sabine",
+        "salary": 80000,
+        "department": "Model" 
+    },
+
+    {
+        "employeeID": 899,
+        "name": "Lysander",
+        "salary": 40000,
+        "department": "Warrior"
+    },
+
+    {
+        "employeeID": 685,
+        "name": "Carly",
+        "salary": 45000,
+        "department": "Receptionist"
+    },
+
+    {
+        "employeeID": 267,
+        "name": "Milo",
+        "salary": 80000,
+        "department": "Historian"
+    },
+
+    {
+        "employeeID": 756,
+        "name": "Rooney",
+        "salary": 56835,
+        "department": "Nail Tech"
+    },
+
+    {
+        "employeeID": 883,
+        "name": "Killian",
+        "salary": 657493,
+        "department": "Pirate"
+    },
+
+    {
+        "employeeID": 923,
+        "name": "Ophelia",
+        "salary": 984364,
+        "department": "Engineer"
+    },
+
+    {
+        "employeeID": 123,
+        "name": "Locke",
+        "salary": 97345,
+        "department": "Scientist"
+    }
+]
